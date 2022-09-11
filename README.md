@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bengisu</h1>
-<h3 align="center">A Computer computer engineering student in Eskişehir Osmangazi University</h3>
+<h3 align="center">A computer engineering student in Eskişehir Osmangazi University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bengisu-sahin&label=Profile%20views&color=0e75b6&style=flat" alt="bengisu-sahin" /> </p>
 
