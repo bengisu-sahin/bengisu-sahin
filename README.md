@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**bengisu-sahin/bengisu-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+👋 Hi, I’m Bengisu. I am a computer engineering student in Eskişehir Osmangazi University.
+
+📫 How to reach me --> bngsshn@gmail.com
+
+(https://github-readme-stats.vercel.app/api?username=bengisu-sahin&show_icons=true&theme=radical)
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&show_icons=true&theme=gradient) 
