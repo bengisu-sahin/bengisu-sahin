@@ -1,6 +1,6 @@
 
 
-![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=yellowgreen)
+![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=red)
 
 ![Bengisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&show_icons=true&theme=dracula)
 
