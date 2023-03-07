@@ -12,4 +12,4 @@ How to reach me 📫  **bngsshn@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&show_icons=true&theme=dracula&layout=compact)](https://github.com/bengisu-sahin/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/bengisu-sahin/count.svg)
+![counter](https://[bengisu-sahin].m.pipedream.net)
