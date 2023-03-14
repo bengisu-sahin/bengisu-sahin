@@ -7,5 +7,5 @@ How to reach me 📫  **bngsshn@gmail.com**
 
 
 ![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=red)
-![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prstheme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==bengisu-sahin&theme=radical)
+![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prs&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=radical)
