@@ -13,7 +13,8 @@
 <a href="https://instagram.com/_bengisusahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bengisusahin" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=pink)
+
+![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=red)
 
 ![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prs&theme=radical&show_icons=true)
 
