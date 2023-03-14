@@ -3,7 +3,7 @@
 
 - 🔭 Currently doing a long-term internship at Arçelik Global. **Analyst & Rpa Development**
 
-- 🌱 I’m currently learning front-end technologies,rpa development and usiness intelligence processes. **React,Uipath,PowerAutomate,PowerBI**
+- 🌱 I’m currently learning front-end technologies,rpa development and business intelligence processes. **React,Uipath,PowerAutomate,PowerBI**
 
 - 📫 How to reach me **bngsshn@gmail.com**
 
