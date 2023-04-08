@@ -16,5 +16,5 @@
 
 ![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prs&theme=aura&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=aura)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=aura&hide_progress=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
