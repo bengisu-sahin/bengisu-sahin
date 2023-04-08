@@ -3,8 +3,6 @@
 
 - 🔭 Currently doing a long-term internship at Arçelik Global. **Analyst & Rpa Development**
 
-- 🌱 I’m currently learning front-end technologies,rpa development and business intelligence processes. **React,Uipath,PowerAutomate,PowerBI**
-
 - 📫 How to reach me **bngsshn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +14,6 @@
 
 ![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=red)
 
-![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prs&theme=radical&show_icons=true)
+![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prs&theme=aura&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=aura)
