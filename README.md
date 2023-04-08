@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bengisu</h1>
 <h3 align="center">A computer engineering student in Eskişehir Osmangazi University</h3>
 
-- 🔭 Currently doing a long-term internship at Arçelik Global. **Analyst & Rpa Development**
+- 🔭 Currently doing a long-term internship at Arçelik Global.
 
 - 📫 How to reach me **bngsshn@gmail.com**
 
@@ -11,10 +11,7 @@
 <a href="https://instagram.com/_bengisusahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bengisusahin" height="30" width="40" /></a>
 </p>
 
-
 ![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=red)
 
 ![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prs&theme=aura&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=aura&hide_progress=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=swift&hide_progress=true)
