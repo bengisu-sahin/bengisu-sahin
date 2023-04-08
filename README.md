@@ -11,7 +11,7 @@
 <a href="https://instagram.com/_bengisusahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bengisusahin" height="30" width="40" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=red)
+![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=white)
 
-![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prs&theme=aura&show_icons=true)
+![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prs&theme=swift&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=swift&hide_progress=true)
