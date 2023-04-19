@@ -1,8 +1,5 @@
 <h3 align="center">Hi 👋, I'm Bengisu</h3>
 <h5 align="center">A computer engineering student in Eskişehir Osmangazi University</h5>
-
-- 🔭 Currently doing a long-term internship at Arçelik Global.
-
 - 📫 How to reach me **bngsshn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
