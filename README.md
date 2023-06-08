@@ -7,6 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=swift&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&show_icons=true&theme=swift&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&hide_progress=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&hide_progress=true)
