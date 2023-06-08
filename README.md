@@ -7,4 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=swift&hide_progress=true)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bengisu-sahin)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bengisu-sahin)
