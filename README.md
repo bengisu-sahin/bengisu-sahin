@@ -6,5 +6,3 @@
 ![Bengisu's github stats](https://github-readme-stats.vercel.app/api?username=bengisu-sahin&hide=contribs,prs&theme=swift&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=swift&hide_progress=true)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bengisu-sahin)
