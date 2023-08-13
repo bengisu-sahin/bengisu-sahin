@@ -7,4 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&theme=swift&hide_progress=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengisu-sahin&layout=compact)
