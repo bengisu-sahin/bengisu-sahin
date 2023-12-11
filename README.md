@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Bengisu Şahin.</h3>
-<h4 align="center">A computer engineering student in Eskişehir Osmangazi University.Also,a software engineer intern at Arçelik Global</h4>
+<p align="center">I am a senior year student in a computer engineering department at Eskişehir Osmangazi University. Also,a software engineer intern at Arçelik Global</p>
 
 ![](https://komarev.com/ghpvc/?username=bengisu-sahin&color=blueviolet)
 <div>
